@@ -8,11 +8,11 @@
 
  - [このプリント基板について](#このプリント基板について---about-this-pcb)
  - [ガーバーデータのダウンロード](#ガーバーデータのダウンロード---download-gerber-data)
+ - [回路図](#回路図---pcb-schematic)
+ - [レイアウト](#レイアウト---pcb-layout)
  - [部品リスト](#部品リスト---parts-list)
  - [便利なアイテム](#便利なアイテム---useful-items)
  - [使用例](#使用例---example-of-use)
- - [回路図](#回路図---pcb-schematic)
- - [レイアウト](#レイアウト---pcb-layout)
  - [開発環境](#開発環境---development-environment)
  - [ライセンスについて](#ライセンスについて---license)
 
